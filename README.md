@@ -1,5 +1,12 @@
 ###  Hey👋 , I'm [huarxia](https://www.jianshu.com/u/fcba10ed6b8a)
 
+<a href="https://github.com/huarxia">
+  <img align="left" alt="huarxia" width="32px" src="https://img.icons8.com/nolan/64/github.png"/>
+</a>
+<a href="https://www.jianshu.com/u/fcba10ed6b8a">
+  <img align="left" alt="huarxia" width="32px" src="https://img.icons8.com/material-rounded/24/000000/jianshu.png"/>
+</a>
+<br/>
 ```
 /**
  *                             _ooOoo_
@@ -34,12 +41,6 @@
 */
 ```
 
-<a href="https://github.com/huarxia">
-  <img align="left" alt="huarxia" width="32px" src="<img src="https://img.icons8.com/nolan/64/github.png"/>
-</a>
-<a href="https://www.jianshu.com/u/fcba10ed6b8a">
-  <img align="left" alt="huarxia" width="32px" src="<img src="https://img.icons8.com/material-rounded/24/000000/jianshu.png"/>
-</a>
 <br/>
 
 > 见过我家那只可爱的宠物吗?它的名字叫大白
