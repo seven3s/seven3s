@@ -10,7 +10,7 @@
 
 ------
 
-<img align="left" alt="progress" width="400px" src="http://oos.animaui.com/mini/wechat/images/progress.svg"/>
+<img align="left" alt="progress" width="100%" src="http://oos.animaui.com/mini/wechat/images/progress.svg"/>
 <img align="right" alt="skill" src="http://oos.animaui.com/mini/wechat/images/skill.svg"/>
 
 ------
@@ -20,7 +20,7 @@
 
 <img align="left" alt="添加微信" width="124px" src="http://oos.animaui.com/mini/wechat/images/wx.jpg"/>
 
-<img align="ceter" alt="赞赏码" width="209px" src="http://oos.animaui.com/mini/wechat/images/appreciate.jpg"/>
+<img align="left" alt="赞赏码" width="209px" src="http://oos.animaui.com/mini/wechat/images/appreciate.jpg"/>
 
 > 见过我家那只可爱的宠物吗?它的名字叫大白
 
