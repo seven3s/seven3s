@@ -27,7 +27,7 @@
 
 **Talking about Personal Stuffs**
 
-- 🔭 I’m currentlychengdu
+- 🔭 I’m currently ChengDu
 - 🌱 I’m currently ts
 - 👯 I’m looking Highcharts
 - 💬 Ask me about anything, I am happy to help
