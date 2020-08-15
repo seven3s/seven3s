@@ -6,12 +6,11 @@
 <a href="https://www.jianshu.com/u/fcba10ed6b8a">
     <img align="left" alt="huarxia" width="32px" src="https://img.icons8.com/material-rounded/24/000000/jianshu.png"/>
 </a>
-
 <br/>
 
-> 项目进度展示
 ------
-<img align="left" alt="progress" width="445px" src="http://oos.animaui.com/mini/wechat/images/progress.svg"/>
+
+<img align="left" alt="progress" width="400px" src="http://oos.animaui.com/mini/wechat/images/progress.svg"/>
 <img align="left" alt="skill" src="http://oos.animaui.com/mini/wechat/images/skill.svg"/>
 
 > [微信小程序原生UI框架](https://github.com/AnimaUI/wechat-miniprogram)
