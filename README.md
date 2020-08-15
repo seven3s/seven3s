@@ -18,8 +18,6 @@
 
 <img align="left" alt="添加微信" width="124px" src="http://oos.animaui.com/mini/wechat/images/wx.jpg"/>
 
-> 赞赏码(您的支持是我最好的动力)
-
 <img align="ceter" alt="赞赏码" width="209px" src="http://oos.animaui.com/mini/wechat/images/appreciate.jpg"/>
 
 ------
