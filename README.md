@@ -13,6 +13,7 @@
 <img align="left" alt="progress" width="100%" src="http://oos.animaui.com/mini/wechat/images/progress.svg"/>
 <img align="left" alt="skill" src="http://oos.animaui.com/mini/wechat/images/skill.svg"/>
 
+------------------------
 
 > [微信小程序原生UI框架](https://github.com/AnimaUI/wechat-miniprogram)
 <img alt="AnimaUI" width="124px" src="http://oos.animaui.com/mini/wechat/images/gh_eb31d483d6e0_258.jpg"/>
