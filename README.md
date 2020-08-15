@@ -17,6 +17,7 @@
 <img align="left" alt="AnimaUI" width="124px" src="http://oos.animaui.com/mini/wechat/images/gh_eb31d483d6e0_258.jpg"/>
 
 <img align="left" alt="添加微信" width="124px" src="http://oos.animaui.com/mini/wechat/images/wx.jpg"/>
+
 ------
 <img align="ceter" alt="赞赏码" width="209px" src="http://oos.animaui.com/mini/wechat/images/appreciate.jpg"/>
 
