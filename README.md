@@ -19,7 +19,7 @@
 
 <img alt="添加微信" width="124px" src="http://oos.animaui.com/mini/wechat/images/wx.jpg"/>
 
-<img align="right" alt="赞赏码" width="209px" src="http://oos.animaui.com/mini/wechat/images/appreciate.jpg"/>
+<img align="left" alt="赞赏码" width="209px" src="http://oos.animaui.com/mini/wechat/images/appreciate.jpg"/>
 
 
 > 见过我家那只可爱的宠物吗?它的名字叫大白
