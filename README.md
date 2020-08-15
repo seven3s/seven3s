@@ -6,7 +6,8 @@
 <a href="https://www.jianshu.com/u/fcba10ed6b8a">
     <img align="left" alt="huarxia" width="32px" src="https://img.icons8.com/material-rounded/24/000000/jianshu.png"/>
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+
 <br/>
 
 ```
@@ -30,7 +31,7 @@
           ======`-.____`-.___\_____/___.-`____.-'======
                              `=---='
           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                     佛祖保佑        永无BUG
+                    佛祖保佑        永无BUG
             佛曰:
                    写字楼里写字间，写字间里程序员；
                    程序人员写程序，又拿程序换酒钱。
