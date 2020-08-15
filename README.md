@@ -20,7 +20,7 @@
 
 <img alt="添加微信" width="124px" src="http://oos.animaui.com/mini/wechat/images/wx.jpg"/>
 
-<img align="left" alt="赞赏码" width="209px" src="http://oos.animaui.com/mini/wechat/images/appreciate.jpg"/>
+<img align="right" alt="赞赏码" width="209px" src="http://oos.animaui.com/mini/wechat/images/appreciate.jpg"/>
 <!-- <img align="right" alt="GIF" src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X2dpZi85WnJkQ0VndEVoWmRabmljSWFwTThpY2xvWUo1WUlzaHdwRjVHUmNlUU00VUJ1ZDlsVlVoUUdFc2N5cHJnNTVXOXJaS1poTWliQVRPVjlUZ1NpYzdXalh2c0EvNjQw?x-oss-process=image/format,png" /> -->
 
 **Talking about Personal Stuffs**
