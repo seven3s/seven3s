@@ -18,7 +18,7 @@
 
 <img align="left" alt="添加微信" width="124px" src="http://oos.animaui.com/mini/wechat/images/wx.jpg"/>
 
-<img alt="赞赏码" width="518px" src="http://oos.animaui.com/mini/wechat/images/appreciate.jpg"/>
+<img align="ceter" alt="赞赏码" width="518px" src="http://oos.animaui.com/mini/wechat/images/appreciate.jpg"/>
 
 > 扫描即可预览
 
