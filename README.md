@@ -9,6 +9,7 @@
 
 <br/>
 
+> 项目进度展示
 ------
 <img align="left" alt="skill" src="http://oos.animaui.com/mini/wechat/images/progress.svg"/>
 <img align="right" alt="skill" src="http://oos.animaui.com/mini/wechat/images/skill.svg"/>
