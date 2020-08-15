@@ -7,9 +7,9 @@
     <img align="left" alt="huarxia" width="32px" src="https://img.icons8.com/material-rounded/24/000000/jianshu.png"/>
 </a>
 
-
 <br/>
 
+------
 [微信小程序原生UI框架](https://github.com/AnimaUI/wechat-miniprogram)
 
 ------
