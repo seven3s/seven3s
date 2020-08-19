@@ -17,6 +17,8 @@
 
 <img align="right" alt="GIF" src="http://oos.animaui.com/mini/wechat/images/developer-coding.gif" />
 
+------
+
 **Talking about Personal Stuffs**
 
 - 🔭 I’m currently ChengDu
