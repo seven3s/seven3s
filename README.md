@@ -13,6 +13,8 @@
 <img align="left" alt="progress" width="100%" src="http://oos.animaui.com/mini/wechat/images/progress.svg"/>
 <img align="left" alt="skill" src="http://oos.animaui.com/mini/wechat/images/skill.svg"/>
 
+------
+
 <img align="right" alt="GIF" src="http://oos.animaui.com/mini/wechat/images/developer-coding.gif" />
 
 **Talking about Personal Stuffs**
