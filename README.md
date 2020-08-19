@@ -15,7 +15,7 @@
 
 ------
 
-<img align="right" alt="GIF" src="http://oos.animaui.com/mini/wechat/images/developer-coding.gif" />
+<img align="right" width="330px" alt="GIF" src="http://oos.animaui.com/mini/wechat/images/developer-coding.gif" />
 
 **Talking about Personal Stuffs**
 
