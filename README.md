@@ -8,9 +8,6 @@
 </a>
 <br/>
 
-------
-
-<img align="left" alt="progress" width="100%" src="http://oos.animaui.com/mini/wechat/images/progress.svg"/>
 <!-- <img align="left" alt="skill" src="http://oos.animaui.com/mini/wechat/images/skill.svg"/> -->
 
 ------
